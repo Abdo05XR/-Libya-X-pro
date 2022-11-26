@@ -1,4 +1,4 @@
-git clone https://github.com/Abdo05XR/Libya-X-pro.git
+git clone https://github.com/Abdo05XR/Libya.git
 
 cd 'Libya X pro.py'
 
